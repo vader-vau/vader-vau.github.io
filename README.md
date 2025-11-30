@@ -1,6 +1,6 @@
 # VADER
 
-This is the repository that contains source code for the [VADER website](https://yoheho-lin.github.io/vader.github.io/).
+This is the repository that contains source code for the [VADER website](https://vader-vau.github.io/).
 
 
 ## Acknowledgements
